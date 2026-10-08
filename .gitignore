@@ -1,0 +1,14 @@
+# Model weights
+models/
+llamacpp/
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.gz
+
+# llama.cpp binaries (see README "Setup")
+llamacpp/
